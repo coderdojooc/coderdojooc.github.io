@@ -1,5 +1,5 @@
 ---
-layout:post
+layout: post
 title: "CoderDojo OC Website Launched"
 date: 2018-05-25
 ---
